@@ -1,4 +1,4 @@
-### Welcome here! :octocat:
+### Hello, there! :octocat:
 
 Link exchange with friends<sup>[?](https://github.com/ssdr/ssdr/blob/master/LINK_EXCHANGE.md)</sup>:
 
