@@ -8,12 +8,12 @@ Your banner should be an 88x31px (176x62 @2x) rectanglar image, and be wrapped i
 
 In exchange, put my banner somewhere in your internet spaces. It's hosted on my domain so in the future I can update it without bothering you. You just gotta trust me.
 
-<img src="http://damian.life/images/mutong.png" width="88" height="31" align="middle" alt="yanke.ly">
+<img src="http://yanl.cc/images/mutong.png" width="88" height="31" align="middle" alt="yanke.ly">
 
 HTML:
 
 ```html
-<a href="https://github.com/ssdr"><img src="http://damian.life/images/mutong.png" width="88" height="31" alt="yanke.ly"></a>
+<a href="https://github.com/ssdr"><img src="http://yanl.cc/images/mutong.png" width="88" height="31" alt="yanke.ly"></a>
 ```
 
 For reference:
