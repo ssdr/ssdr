@@ -1,4 +1,4 @@
-### Hello, there! :octocat:
+### Hello, there! :octocat: ![](https://komarev.com/ghpvc/?username=ssdr&label=VIEWS&style=flat-square&color=green) 
 
 ---
 
